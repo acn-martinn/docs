@@ -1,7 +1,7 @@
 ---
 title: Altinn Studio
 description: Altinn Studio er vårt nye verktøy for å utvikle offentlige digitale tjenester. Dette kan være alt fra helt enkle skjema til avanserte applikasjoner.  
-weight: 300
+weight: 150
 titleSup: NY
 ---
 
